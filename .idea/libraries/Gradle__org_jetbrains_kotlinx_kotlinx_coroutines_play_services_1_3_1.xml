@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-play-services/1.3.1/b204ddabaa9f8c057f7e2ed0260114182864a36f/kotlinx-coroutines-play-services-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-play-services/1.3.1/a060bfe4149fecdb61f7fbfd105964131f9af167/kotlinx-coroutines-play-services-1.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-play-services/1.3.1/ab1460bed4ca2bee50c7ce5911f7ba2e16cbb081/kotlinx-coroutines-play-services-1.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
